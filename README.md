@@ -16,6 +16,7 @@ fullstack developer open for work! 📖
   <img src="https://datawokagaku.com/wp-content/uploads/2020/01/docker_icon.png" width=50 height=50 />
   <img src="https://user-images.githubusercontent.com/68374407/172689093-d5fa4602-2b7e-4f6f-8a90-f6c5ceb08f88.svg" width=50 height=50  />
   <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width=50 height=50  />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseekicon.com%2Ffree-icon-download%2Flinux-tux-icon_1.png&f=1&nofb=1" width=50 height=50 />
 </div>
 
 ![github-user-contribution](https://user-images.githubusercontent.com/68374407/172689109-5d7036f1-1f02-4c26-b8e2-40cb04aaf53a.svg)
