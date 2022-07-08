@@ -19,4 +19,4 @@ fullstack developer open for work! 📖
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseekicon.com%2Ffree-icon-download%2Flinux-tux-icon_1.png&f=1&nofb=1" width=50 height=50 />
 </div>
 
-![github-user-contribution](https://user-images.githubusercontent.com/68374407/172689109-5d7036f1-1f02-4c26-b8e2-40cb04aaf53a.svg)
+![github-user-contribution](https://user-images.githubusercontent.com/68374407/178022638-942c776e-d1d1-4208-9e98-b6e6913bb627.svg)
