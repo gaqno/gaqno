@@ -4,7 +4,7 @@ são paulo, 🇧🇷 </br>
 fullstack developer open for work! 📖
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaqno&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaqno&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaqno&langs_count=8&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <img src="https://user-images.githubusercontent.com/68374407/172689095-40ad43b9-5b5e-46a2-b139-c5ceffe16517.svg" width=50 height=50 />
