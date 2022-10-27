@@ -1,8 +1,7 @@
 ### aqnodev 💻
-gabriel aquino, 24 yd </br>
+gabriel aquino, 25 yd </br>
 são paulo, 🇧🇷 </br>
-fullstack developer open for work! 📖
-
+fullstack developer open for
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaqno&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaqno&langs_count=8&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
