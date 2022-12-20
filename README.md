@@ -1,4 +1,4 @@
-### aqnodev 💻
+### gaqno development 💻
 gabriel aquino, 25 yd <br/>
 são paulo, 🇧🇷 <br/>
 fullstack developer <br/>
@@ -17,5 +17,3 @@ fullstack developer <br/>
   <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width=50 height=50  />
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseekicon.com%2Ffree-icon-download%2Flinux-tux-icon_1.png&f=1&nofb=1" width=50 height=50 />
 </div>
-
-![github-user-contribution](https://user-images.githubusercontent.com/68374407/178022638-942c776e-d1d1-4208-9e98-b6e6913bb627.svg)
