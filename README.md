@@ -1,7 +1,16 @@
 ### gaqno development 💻
-gabriel aquino, 25 yd <br/>
-são paulo, 🇧🇷 <br/>
-fullstack developer <br/>
+👨‍💻 I am a mid-level developer with two years of experience in application development. My expertise lies in frontend development, with Vue as my main framework, in conjunction with Nuxt 3, Vuex, and Pinia. I also have skills in several other technologies, including React, React Native, Redux, Context API, SQL, Prisma, Node, and NestJS on the backend.
+
+📚 I am always looking for new challenges and opportunities to expand my knowledge and skills as a developer, and I stay up-to-date with the latest industry trends, technologies, and best practices.
+
+🤝 I enjoy collaborating with teams and individuals to create innovative solutions that solve complex business problems. In my previous role at Newcore, I was responsible for developing new tools and making corrections to the CRM and backoffice, utilizing technologies such as React, React Native, TypeScript, Node, Angular, NestJS, Docker, DataDog, and Google Cloud.
+
+💻 I am committed to producing efficient and scalable solutions to meet our clients' needs. I have skills in Tailwind CSS to ensure attractive and functional user interfaces. I have successfully delivered projects for clients in various industries such as real estate, telecommunications, and marketing.
+
+🏆 Some of my notable achievements include consistently meeting project deadlines, learning new technologies and software languages, and managing projects following the practices of PMI, ITIL, and COBIT.
+
+🌟 I am also interested in social sciences such as sociology, history, and philosophy. These subjects allow me to explore and understand the complexities of human behavior and the world we live in.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaqno&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaqno&langs_count=8&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
