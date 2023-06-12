@@ -7,8 +7,6 @@
 
 💻 I am committed to producing efficient and scalable solutions to meet our clients' needs. I have skills in Tailwind CSS to ensure attractive and functional user interfaces. I have successfully delivered projects for clients in various industries such as real estate, telecommunications, and marketing.
 
-🏆 Some of my notable achievements include consistently meeting project deadlines, learning new technologies and software languages, and managing projects following the practices of PMI, ITIL, and COBIT.
-
 🌟 I am also interested in social sciences such as sociology, history, and philosophy. These subjects allow me to explore and understand the complexities of human behavior and the world we live in.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaqno&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
