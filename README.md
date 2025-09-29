@@ -1,5 +1,5 @@
 ### gaqno development 💻
-👨‍💻 I am a mid-level developer with more then 4 years of experience in application development. My expertise lies in frontend development, with Vue as my main framework, in conjunction with Nuxt 3, Vuex, and Pinia. I also have skills in several other technologies, including React, React Native, Redux, Context API, SQL, Prisma, Node, and NestJS on the backend.
+👨‍💻 I am a mid-level developer with more than 4 years of experience in application development. My expertise lies in frontend development, with Vue as my main framework, in conjunction with Nuxt 3, Vuex, and Pinia. I also have skills in several other technologies, including React, React Native, Redux, Context API, SQL, Prisma, Node, and NestJS on the backend.
 
 📚 I am always looking for new challenges and opportunities to expand my knowledge and skills as a developer, and I stay up-to-date with the latest industry trends, technologies, and best practices.
 
